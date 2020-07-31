@@ -1,1 +1,1 @@
-Program to know if you can retire or not.
+Code to know if you can retire or not.
